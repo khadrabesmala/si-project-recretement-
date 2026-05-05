@@ -27,7 +27,7 @@ Vercel utilise une **scalabilité horizontale automatique** via des "Edge Functi
 ---
 
 ## 🛠️ Instructions pour la Correction
-- **URL de production** : [VOTRE_LIEN_VERCEL_ICI]
+- **URL de production** : https://si-project-recretement-4s1j.vercel.app
 - **Identifiants de test** : 
-  - Email : `test@example.com`
-  - Password : `password123`
+  - Email : `besmalasaada@gmail.com`
+  - Password : `12345678`
